@@ -23,4 +23,6 @@ https://developer.android.com/training/testing/ui-testing/espresso-testing.html
 
 https://google.github.io/android-testing-support-library/docs/espresso/cheatsheet/
 
+https://www.youtube.com/watch?v=TGU0B4qRlHY
+
 
