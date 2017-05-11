@@ -1,6 +1,6 @@
 # Android UI testing framework
 
-<img align="center" src='https://github.com/balrampandey19/Logy/blob/master/logy.jpg' width='400' height='200'/>
+<img align="center" src='https://lh5.googleusercontent.com/-E2YPLlVAl0U/VJUcPrgVC-I/AAAAAAAAGFM/AkqZn5N8rrc/w890-h1009/espresso_lockup.png' width='100' height='200'/>
 
 
 Espresso is a testing framework for Android to make it easy to write reliable user interface tests.
