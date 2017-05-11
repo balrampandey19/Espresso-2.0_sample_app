@@ -1,5 +1,8 @@
 # Android UI testing framework
 
+<img align="center" src='https://github.com/balrampandey19/Logy/blob/master/logy.jpg' width='400' height='200'/>
+
+
 Espresso is a testing framework for Android to make it easy to write reliable user interface tests.
 
 Google released the Espresso framework in Oct. 2013. Since its 2.0 release Espresso is part of the Android Support Repository.
