@@ -17,3 +17,6 @@ ViewActions - allows to perform actions on the views
 ViewAssertions - allows to assert state of a view
 
 
+http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html
+
+
