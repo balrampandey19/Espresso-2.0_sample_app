@@ -14,6 +14,7 @@ It is intended to test a single application but can also be used to test across 
 
 Espresso has basically three components:
 
+
 ViewMatchers - allows to find view in the current view hierarchy
 
 ViewActions - allows to perform actions on the views
